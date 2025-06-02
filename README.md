@@ -20,7 +20,7 @@ This is a **simple Leave Management System** built using **Lightning Web Compone
 - **Lightning Web Components (LWC)**: For building interactive and reusable UI components.
 - **Apex Controllers**: To handle backend logic and data fetching.
 - **SOQL**: For querying leave data from Salesforce.
-- **Custom Object**: `Leave__c` to store leave requests.
+- **Custom Object**: `LeaveRequest__c` to store leave requests.
 - Git & GitHub  for version control
 - Visual Studio Code with Salesforce CLI
 
